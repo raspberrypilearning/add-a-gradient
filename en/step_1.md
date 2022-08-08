@@ -1,6 +1,6 @@
 The `gradient1` and `gradient2` styles provide different gradient effects.
 
-![A screenshot showing the two gradient styles. The first shows colours fading from top left to bottom right and the second shows colours fading from bottom left to top right.](images/gradient.PNG)
+![The square on the right-hand side shows colours fading from top left to bottom right and the square on the left-hand side shows colours fading from bottom left to top right.](images/gradient.PNG)
 
 --- code ---
 ---
