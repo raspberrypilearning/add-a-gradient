@@ -1,6 +1,6 @@
-The `gradient1` and `gradient2` styles provide different gradient effects.
+Les styles `gradient1` et `gradient2` permettent d'obtenir des effets de dégradé différents.
 
-![The square on the right-hand side shows colours fading from top left to bottom right and the square on the left-hand side shows colours fading from bottom left to top right.](images/gradient.PNG)
+![Le carré de droite présente des couleurs qui s'estompent du haut à gauche vers le bas à droite et le carré de gauche présente des couleurs qui s'estompent du bas à gauche vers le haut à droite.](images/gradient.PNG)
 
 ## --- code ---
 
@@ -10,15 +10,15 @@ line_numbers: false
 --------------------------------------------------------
 
 <div class="gradient1">
-    <p>Add text here</p>
+    <p>Ajoute du texte ici</p>
 </div>
 <div class="gradient2">
-    <p>Add text here</p>
+    <p>Ajoute du texte ici</p>
 </div>
 
 --- /code ---
 
-**Tip:** To change the colours and direction of the gradient, adjust the `background-image` values for the `gradient1` and `gradient2` classes in `style.css`.
+**Astuce :** pour modifier les couleurs et la direction du dégradé, ajuste les valeurs de `background-image` pour les classes `gradient1` et `gradient2` dans `style.css`.
 
 ## --- code ---
 
