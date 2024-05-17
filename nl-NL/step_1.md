@@ -1,6 +1,6 @@
-The `gradient1` and `gradient2` styles provide different gradient effects.
+De `gradient1` en `gradient2` styles bieden verschillende verloopeffecten.
 
-![The square on the right-hand side shows colours fading from top left to bottom right and the square on the left-hand side shows colours fading from bottom left to top right.](images/gradient.PNG)
+![Het vierkant aan de linkerkant toont kleuren die vervagen van linksboven naar rechtsonder en het vierkant aan de rechterkant toont kleuren die vervagen van linksonder naar rechtsboven.](images/gradient.PNG)
 
 ## --- code ---
 
@@ -10,15 +10,15 @@ line_numbers: false
 --------------------------------------------------------
 
 <div class="gradient1">
-    <p>Add text here</p>
+    <p>Voeg hier tekst toe</p>
 </div>
 <div class="gradient2">
-    <p>Add text here</p>
+    <p>Voeg hier tekst toe</p>
 </div>
 
 --- /code ---
 
-**Tip:** To change the colours and direction of the gradient, adjust the `background-image` values for the `gradient1` and `gradient2` classes in `style.css`.
+**Tip:** Om de kleuren en richting van het verloop te veranderen, pas de `background-image`-waarden aan voor de `gradient1` en `gradient2` classes in `style.css`.
 
 ## --- code ---
 
