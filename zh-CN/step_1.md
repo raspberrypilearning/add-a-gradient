@@ -1,6 +1,6 @@
-The `gradient1` and `gradient2` styles provide different gradient effects.
+`gradient1` 和 `gradient2` 样式提供不同的渐变效果。
 
-![The square on the right-hand side shows colours fading from top left to bottom right and the square on the left-hand side shows colours fading from bottom left to top right.](images/gradient.PNG)
+![右侧的方块显示颜色从左上角向右下角逐渐消失，左侧的方块显示颜色从左下角向右上角逐渐消失。](images/gradient.PNG)
 
 ## --- code ---
 
@@ -10,15 +10,15 @@ line_numbers: false
 --------------------------------------------------------
 
 <div class="gradient1">
-    <p>Add text here</p>
+    <p>在此处添加文本</p>
 </div>
 <div class="gradient2">
-    <p>Add text here</p>
+    <p>在此处添加文本</p>
 </div>
 
 --- /code ---
 
-**Tip:** To change the colours and direction of the gradient, adjust the `background-image` values for the `gradient1` and `gradient2` classes in `style.css`.
+**提示**：要更改渐变的颜色和方向，请调整 `style.css` 中 `gradient1` 和 `gradient2` 类的 `background-image` 值。
 
 ## --- code ---
 
